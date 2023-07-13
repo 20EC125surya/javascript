@@ -1,0 +1,26 @@
+body{
+    background:black;
+}
+h1{
+    background:green;
+    color:rgb(210, 247, 250);
+    text-align:center;
+    height:60px;
+    padding:30px;
+}
+h3{
+    background:greenyellow;
+    color:black;
+    height:60px;
+    text-align:center;
+    padding:30px;
+}
+p{
+    background:green;
+    color:white;
+    margin:auto;
+    height: 40px;
+    width:90px;
+    padding:30px;
+    text-align:center;
+}
